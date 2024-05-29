@@ -1,0 +1,31 @@
+.img {
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+.box {
+    position: relative;
+    top: -220px;
+    left: 430px;
+}
+h3 {
+    color: silver;
+}
+.button1 {
+    background-color: blue;
+    color: white;
+    padding: 8px;
+    border-radius: 4px;
+}
+.button2 {
+    background-color: white;
+    color: blue;
+    border: solid blue 1px;
+    padding: 8px;
+    border-radius: 4px;
+    position: relative;
+    left: 15px;
+}
+p {
+    color: rgb(85, 84, 84);
+}
